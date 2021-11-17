@@ -1,0 +1,15 @@
+.NotFound {
+    display: grid;
+    place-items: center;
+}
+
+.NotFound img {
+    width: 600px;
+}
+
+.NotFound a h1 {
+    color: var(--hospital-green);
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+}
